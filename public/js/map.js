@@ -3,7 +3,7 @@ const map=new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/standard',
     projection: 'globe',
-    zoom: 10,
+    zoom: 12.5,
     center: listing.geometry.coordinates
 });
 
