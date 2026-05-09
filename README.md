@@ -50,16 +50,8 @@ Wanderlust is designed as a modular, layered monolithic web application followin
 - Middleware-driven request lifecycle
 
 ## High-Level Architecture
-<img width="650" height="700" alt="Blank diagram" src="https://github.com/user-attachments/assets/e7f945da-2e05-4760-b025-d4ceba896c29" />
+<img width="1388" height="1465" alt="Blank diagram" src="https://github.com/user-attachments/assets/c413e76c-0180-4bd0-b14f-468e92e8e18e" />
 
-### 1) User Interaction Pipeline
-<img width="300" height="600" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/1af11c45-0d94-40cf-8aac-ee8d8177454c" />
-
-### 2) Media Processing Pipeline
-<img width="300" height="400" alt="Blank diagram (2)" src="https://github.com/user-attachments/assets/d75cac76-7081-459d-a6aa-bcf225971a20" />
-
-### 3) Authentication & Session Pipeline
-<img width="300" height="500" alt="Blank diagram (3)" src="https://github.com/user-attachments/assets/56fc7484-47b6-4f5f-b8f3-953f8beb9fbf" />
 
 ---
 
