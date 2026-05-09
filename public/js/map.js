@@ -1,0 +1,10 @@
+mapboxgl.accessToken=mapToken;
+const map=new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/standard',
+    projection: 'globe',
+    zoom: 10,
+    center: listing.geometry.coordinates
+});
+
+const marker=new mapboxgl.Marker({ color: 'red' }).setLngLat(listing.geometry.coordinates).setPopup(new mapboxgl.Popup({ offset: 25 }).setHTML(`<h4>${listing.title}</h4><p>Exact location will beprovided after booking</p>`)).addTo(map);
