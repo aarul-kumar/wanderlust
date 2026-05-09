@@ -284,15 +284,3 @@ MAP_TOKEN=mapbox_access_token
 ```bash
 node app.js
 ```
-
----
-
-# Future Enhancements
-
-* Full-text search and indexing (MongoDB Atlas Search)
-* Advanced filtering and query optimization
-* User profile and authorization roles (RBAC)
-* Booking and reservation subsystem
-* Payment gateway integration (Stripe/Razorpay)
-* Enhanced geospatial querying and clustering
-* Migration toward service-oriented or microservices architecture
