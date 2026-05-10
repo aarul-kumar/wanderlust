@@ -1,10 +1,6 @@
 # Wanderlust – Discover, Share & Book Unique Travel Stays
 
-Wanderlust is a full-stack, production-oriented travel listing platform built using the MEN stack (MongoDB, Express.js, Node.js, EJS). The system enables users to discover destinations, create and manage property listings, and interact through reviews, all within a secure and scalable environment.
-
-The application follows a modular MVC architecture combined with RESTful routing and server-side rendering (SSR). This ensures clean separation of concerns, maintainable code structure, optimized initial page loads, and efficient request-response handling across the system.
-
-Core features include listing management, image uploads via cloud storage, user authentication with session handling, and a review system for user interaction. The backend is designed with a strong focus on data integrity, security, and scalability, making it suitable as a real-world production-style project.
+Wanderlust is a Full-stack travel listing platform built with the MEN stack, enabling users to explore destinations, manage listings, upload images, interact via maps, and share reviews and ratings. Designed using MVC architecture, RESTful routing, and SSR for a secure, scalable, production-ready system.
 
 ## What You Can Do on Wanderlust
 
