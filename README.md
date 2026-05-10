@@ -36,7 +36,6 @@ The backend enforces strict separation between routing, domain logic, and persis
 ---
 
 # System Architecture
-Wanderlust is designed as a modular, layered monolithic web application following MVC principles with clear separation of concerns across presentation, application, domain, and persistence layers. The system is optimized for scalability, maintainability, and future migration toward distributed microservices.
 
 ## Architectural Paradigm
 
